@@ -130,6 +130,56 @@ No pub.dev existem mais de 200 plugins e pacotes específicos para uso com o o W
 * CI/CD - CodeMagig
 
 
+## Outras considerações
+
+* Controle sobre cada pixel
+* Animações
+* Tema
+* Smooth Scrolling
+
+
+## Demo do Rive no Windows
+
+[Vídeo](https://youtu.be/g-0B_Vfc9qM?t=984)
+
+* Games
+* Animações
+* Icones animados
+* Data Visualization
+* Cartoons, Mascotes, etc
+
+* Rive for Windows Desktop
+
+
+
+Efficient memory usage
+
+Best performance
+
+Windows Desktop e Windows Tablets
+
+Custom Title bar
+
+
+## Outros destaques
+
+Inclusive
+
+[Accesbility](https://youtu.be/g-0B_Vfc9qM?t=1210)
+
+Performance
+
+Native Speed
+Memory Overhead in MegaBytes
+Optmized Binary
+
+
+## Rows Spreadsheets
+
+Spreadsheets in superpowers
+
+* https://youtu.be/g-0B_Vfc9qM?t=1298
+
 
 
 
